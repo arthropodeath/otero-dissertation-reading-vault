@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","dg-note-properties":{"dh-home":true}}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 This is my home note. 
