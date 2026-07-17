@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/secondary-bibliography/categorised/latham-american-slipstream/","dg-note-properties":{}}
+---
+
+Latham, Rob. “American Slipstream: Science Fiction and Literary Respectability.” _The Cambridge Companion to American Science Fiction_. Ed. Gerry Canavan and Eric Carl Link. Cambridge: Cambridge University Press, 2015. 99–110. Print. Cambridge Companions to Literature.
+
+About [[Terminology/Science Fiction Studies\|Science Fiction Studies]], [[Terminology/Cyberpunk\|Cyberpunk]]
+
+By 1989, if one is to judge by Bruce Sterling ’s column in the July issue of the fanzine Science Fiction Eye, the genre’s situation looked dire indeed. While at one time it might have offered readers “a real grip on the chromeplated handles of the Atomic Age,” Sterling asserted, it now seemed little better than “a dream that failed,” a “self-perpetuating commercial powerstructure” giving off a strong “reek of decay.” 7 Much more responsive to the concerns of serious readers, including serious SF readers dissatisi ed with the state of the i eld, was a new genre Sterling called “slipstream .” Slipstream was a kind of writing that “set its face against consensus reality,” often by 101 deploying surreal or other avant-garde techniques, and that as a consequence made readers “feel very strange; the way that living in the twentieth century makes you feel, if you are a person of a certain sensibility.” 8 Latham 100-101
+
+Lethem’s essay does manage to capture a dynamic that has characterized literary production since at least the 1990s: younger authors who grew up reading both SF by the likes of Dick and mainstream postmodern novels by the likes of Pynchon – authors such as Lethem himself, say – no longer feel the need ritualistically to disavow any connection with the genre (as McElroy did two decades earlier), but they also do not feel compelled to publish within its borders or cultivate a fan audience because the larger literary marketplace has embraced their SF-inl ected works. Latham 104
+
+in an atmosphere where genre SF is in the process of becoming pure vapor, no solid body may exist any longer that can generate such a powerful wake. Instead, there is simply the mixing of i ctive elements at an almost molecular level. This is not to say that traditional literary divisions, with their attendant stigmas, have entirely disappeared (as Atwood’s infamous “squids in space” crack indicates), but merely that they continue to undergo a radical metamorphosis that threatens, over time, to continue to unmake boundaries that once seemed quite i xed. Latham 108

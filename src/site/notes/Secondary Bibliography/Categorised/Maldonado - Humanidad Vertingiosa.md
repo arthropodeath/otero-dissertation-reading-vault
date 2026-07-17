@@ -1,0 +1,23 @@
+---
+{"dg-publish":true,"permalink":"/secondary-bibliography/categorised/maldonado-humanidad-vertingiosa/","dg-note-properties":{}}
+---
+
+Maldonado, Manuel Arias. ‘Transhumanismo, Posthumanismo, Antropoceno: Notas Sobre La Humanidad Vertiginosa.’ _Pasajes_, no. 57, 2018, pp. 28–36.
+
+About [[Terminology/Posthumanism\|Posthumanism]], [[Terminology/Transhumanism\|Transhumanism]], [[Terminology/Criticism of Transhumanism\|Criticism of Transhumanism]], [[Terminology/Criticism of (Trans)Posthumanism\|Criticism of (Trans)Posthumanism]]
+
+**¿qué será de la promesa transhumanista si no hay un futuro donde realizarla? En un planeta inhabitable, no habría lugar para evolución moral alguna; nadie podría echar una mirada retrospectiva sobre las viejas equivocaciones. Este horizonte no es disparatado en un planeta cuyo sistema climático ha sido fatalmente alterado; climatólogos y expertos en el sistema terrestre llevan dibujándolo desde hace años (Maldonado 30)**
+
+**He aquí otra acepción para el posthumanismo que con cierta frecuencia se asocia al concepto de transhumanismo: no la superación del humanismo, sino la desaparición de la humanidad. Allí donde el transhumanismo fantasea con una singularidad tecnológica que incluye el fin de la especie tal como la conocemos, el cambio climático y la degradación de la biosfera convocan el fantasma de un final sin matices. (Maldonado 30)**
+
+ángulo, **el transhumanismo termina pareciéndose mucho al humanismo. No en vano, ambos pierden de vista que el ser humano no es la única realidad que contiene la realidad. (Maldonado 30)**
+
+el hombre dota de sentido al mundo pese a que el mundo, por su existencia y constitución física, es independiente del hombre. Esto podría tener poca importancia y durante mucho tiempo no tuvo ninguna: si la continuidad del mundo está asegurada, el autoengaño humanista carece de consecuencias prácticas. Pero eso puede cambiar y, de hecho, está cambiando (Maldonado 30)
+
+**Ahora constatamos que esa transformación ha dejado de sernos favorable y, en plena transición del Holoceno al Antropoceno, tomamos conciencia de la fragilidad del planeta: la misma tecnología que según el transhumanismo más ambicioso podría convertirnos en dioses amenaza con conducirnos a la precariedad terrenal. Entre Narciso y Fausto, la humanidad se asoma al abismo planetario (Maldonado 32)**
+
+Así las cosas, ¿qué nos impide idear un conjunto de modificaciones biomédicas cuyo fin sea combatir el cambio climático u otras alteraciones planetarias causadas por el ser humano? Es lo que han propuesto Matthew Liao, Anders Sandberg y Rebecca Roache en un artículo dedicado a explorar un tipo de solución transhumanista al calentamiento global que ellos llaman «ingeniería humana».13 A su juicio, la modificación biomédica de los humanos con objeto de dotarles de la capacidad encarnada o corporal de mitigar el cambio climático puede ser un medio eficaz de combatir este; en todo caso, ellos la conciben como una actividad voluntaria que podría incentivarse por medio de deducciones fiscales o subvenciones públicas. Las posibilidades, que incluyen tanto el biomejoramiento químico como el genético, son diversas: ingerir pastillas que nos provoquen aversión o intolerancia a la carne roja; reforzar nuestro altruismo mediante el incremento de la oxitocina; cambiar genéticamente nuestros ojos para que vean más fácilmente en la oscuridad y pueda con ello ahorrarse energía lumínica; reducir nuestro tamaño corporal para disminuir la huella ecológica del individuo y de la especie; o emplear potenciadores cognitivos que conduzcan a menores tasas de fertilidad y con ello a una menor presión poblacional sobre los recursos planetarios. Aunque los autores reconocen la existencia de riesgos asociados a cada una de estas técnicas, sugieren que tales riesgos sean comparados con los que se deducen de la inacción climática (Maldonado 34)
+
+El transhumanismo aplicado al cambio climático sería así, forzosamente, un transhumanismo democrático (Maldonado 35)
+
+ecordará al transhumanismo que ningún sueño tecnológico podrá llevarse a cabo si olvidamos que el ser humano no es una criatura desencarnada que habita un mundo a su servicio, sino un ser vulnerable que depende de un planeta cuya larguísima historia está llena de violentos episodios geológicos. Por más que el vértigo ante el abismo suela ser una experiencia desagradable, en ocasiones puede servir de aprendizaje; ¡ojalá esta sea una de ellas! (Maldonado 36)

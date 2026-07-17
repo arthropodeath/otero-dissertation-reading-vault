@@ -1,0 +1,47 @@
+---
+{"dg-publish":true,"permalink":"/secondary-bibliography/categorised/outka-end-of-trauma/","dg-note-properties":{}}
+---
+
+Outka, Paul. “History, the Posthuman, and the End of Trauma: Propranolol and Beyond.” _Traumatology (Tallahassee, Fla.)_, edited by Joseph M Gabriel, vol. 15, no. 4, 2009, pp. 76–81, https://doi.org/10.1177/1534765609357282.
+
+About [[Terminology/Warfare\|Warfare]]
+
+The returning veteran, the rape survivor, the Holocaust victim, at once demand our sympathy and our best efforts to treat their trauma, even as their continued agony serves as a testimony to what is so terrible, more generally, about war, sexual violence, genocide, and the myriad other large-scale horrors in which human beings so frequently engage (Outka 76
+
+. Individual acts of healing are, then, also acts of social and historical healing. And, similarly, the efforts of activists to address the problems of violence on a systemic level are profoundly connected to— indeed often explicitly inspired by—a desire to help the individual victims of that violence—the vet, the survivor. (Outka 76
+
+A wide range of drug treatments currently under development and in testing promise both to cure PTSD outright, as well as to offer prophylactic protection against its onset, and to do so more effectively and far more quickly than current treatment regimes such as exposure treatment and the prescription of antidepressants such as sertraline and paroxetine (Outka 76
+
+they generally act by intervening on the hyper-encoding of memories produced under conditions of extreme stress, including the stress (re)produced when the original traumatic event is recalled and the memory of it is reconsolidated.3 So, for example, one of the most promising of the new drugs, the widely prescribed antiadrenergic propranolol, acts by suppressing the activation of the amygdala and the locus coeruleus and by boosting the activity of the prefrontal cortex, has shown significant effectiveness both in preventing the formation of PTSD when administered immediately after a traumatic event and in treating PTSD symptoms after a diagnosis (Outka 76-77
+
+By stopping the release of those hormones, propranolol allows the facts of the event to be retained without being coupled, when the memory is first consolidated, to the profoundly unsettling emotional charge that is a hallmark of trauma. The patient remembers what happened, but without terror, in an ordinary, nonintrusive way (Outka 77
+
+Ordinarily, in PTSD this process of reconsolidation just reinscribes the trauma; the memory of the initial event is so literal and so terrible that, in effect, the initial trauma repeats itself, the mind is flooded with stress hormones, and the plasticity of the recollected memory hardens again into the all-too-familiar lineaments of horror. But, if patients take propranolol before deliberately triggering the traumatic memory, the release of those stress hormones is blocked, and, accordingly, the reconsolidated memory is shorn of its emotional charge (Outka 77
+
+For the soldier, the war in fact ends with the tour, for the survivor of sexual assault, the night is really taken back, for the abused child, intimacy is no longer necessarily conjoined with betrayal. And for the children, friends, spouses, and lovers of the traumatized, the secondary effects of trauma—from violence, to drug and alcohol abuse, to emotional distance— are also blunted; trauma’s tendency to propagate is stopped when the primary victim is cured, a follow-on effect that underscores how meaningful and widespread a contribution to human happiness such drugs might make. Viewed from a wider social and political perspective, however, the prospect of a cure for PTSD has much more troubling implications, a disjunction between the individual and historical perspective that opens precisely (and perversely) because of the speed and effectiveness of drugs such as propranolol in effecting that cure or in inoculating the potential victim in advance. When vulnerability to trauma is universal and the process of recovery is painstaking, as it is now, individual recovery does not threaten the communal moral and political signification of trauma; the very length of the road to individual healing is a central way (indeed perhaps the central way) we measure what is so awful about war, rape, child abuse, and the like. (Outka 77
+
+While it would seem to me monstrous not to add propranolol to the rape kit if it proves as effective in treating trauma as early studies suggest, such an addition will nevertheless change how the crime itself signifies in a larger social context (Outka 77
+
+War exists precisely at the intersection between individual and communal suffering, a place where the infliction of trauma is inevitable, where soldiers must, as a matter of course, endure fear, hardship, violence, and often severe physical and emotional pain (Outka 78
+
+As I noted in the introduction, the individual and communal have long been united in trauma: the healing of the individual soldier suffering from PTSD is identified with the war ending in a broader national sense. (Outka 78
+
+Propranolol and its future iterations will require that we face in a newly concrete way that trauma is political testimony, that it isn’t only something that needs cure or amelioration— mainly because the drug acts to eliminate that testimony. This new set of questions about trauma’s import are raised precisely by how propranolol supplants the old set of questions about trauma’s treatment, an old set of questions that took for granted an ongoing association between individual and collective politics, one forged precisely (if unconsciously) out of the difficulty of accomplishing that treatment. (Outka 78
+
+Is the V.A. really likely to choose a much more costly standard treatment in favor of preventing the problem in the first place and keeping soldiers in the field, even if such prevention raises a host of troubling ethical and historical questions? It seems almost certain, then, that the use of memory altering drugs will be widespread on the battlefield and in military hospitals as soon as they are available and proven reasonably safe and effective. The “availability” of these drugs will itself likely mean “ubiquity” in short order. This will in turn change the nature of warfare itself, at once, and paradoxically, rendering it more brutal in practice, and less traumatic in experience, at least for those taking such drugs (Outka 79
+
+. In either event, a colder brutality, less emotional ethics, a reduction in both ardor and psychological limit seems likely to reshape warfare under the coming psychopharmacological regime. When the de facto standard for the “bearable” gets ratcheted up, the choice not to take beta-blockers will increasingly itself seem self-destructive; indeed, one can imagine the military requiring all soldiers going into combat situations to take such drugs (Outka 79
+
+a difference we need to consider carefully before passing judgment. Too often questions about biotechnology are framed in terms of their utopian or dystopian consequences, a frame that distracts from the intrinsic ambiguity and complexity of the question itself, and, accordingly, in doing so amounts to a change of subject (Outka 79
+
+On one hand, the end of trauma begs the question of a possible replacement for the moral lesson that individual cases of PTSD have long provided—the victim who shows us what is wrong with a given crime or practice, what is lost even in victory. The question of the morality of broad social practices will, in other words, have to be answered in broader social terms, and not with recourse to an individual story of suffering that the “audience” is then asked to universalize, to make synecdochic (Outka 79
+
+who is mostly likely to fight hard against injustice. Put simply, a very old problem—moral apathy—is revealed when trauma disappears. (Outka 80
+
+. To be forcibly denied the “normal” traumatic response to a terrible situation itself may come to seem like a deeply personal moral violation (Outka 80
+
+The consequences of such a change point to how the traumatic is not only a measure of pathology, but a measure of normality, a profoundly human response to terror and horror and suffering, a limit to what our species can take, a limit that defines part of what it means to be human (Outka 80
+
+moral and emotional core that is shattered by too much agony? To be able to remember calmly the torn bodies of your friends, the dead school children, the fatal misidentification of a civilian, the episode of bloodlust, the marketplace turned charnel house, the death camp, the interrogation room, the parking lot or alley, the church basement or parental bedroom, is, looked at one way, a successful PTSD treatment, and another way, sociopathology in a pill. (Outka 80
+
+Our species has been fundamentally shaped by ongoing guilt and fear; the ability to never forget, no matter what, terribly dangerous and violent situations confers obvious evolutionary advantages and is part of our hardwiring. A future largely free of trauma will be not only radically different in ways difficult to predict, but likely both considerably worse and considerably better than before. Without ongoing guilt and endless fear we will be, certainly (Outka 80

@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/secondary-bibliography/categorised/colebrook-extinguishing-ability/","dg-note-properties":{}}
+---
+
+Colebrook, Claire. ‘Extinguishing Ability: How We Became Postextinction Persons.’ _Eco-Deconstruction: Derrida and Environmental Philosophy_, online edn, Fordham Scholarship Online, 2018, pp. 261–76.
+
+About [[Terminology/Environmental Studies\|Environmental Studies]], [[Terminology/Animal Studies\|Animal Studies]], [[Terminology/Critical Studies\|Critical Studies]]
+
+Derrida’s arrow of time and promising went in one direction only and tended toward mobility and ability; the promissory “perhaps” of the future was always one of openness to what could not yet be calculated, determined, decided, or imagined. If he deploys such terms as “necessary impossibility,” the use of the term “impossible” is a way of keeping possibility open: if there can never be the pure fulfillment of democracy or justice—if such terms are at once necessary and impossible—it is only their full realization that is impossible, and this therefore precludes terms from falling into fixity, inertia, and static completion (Colebrook 279
+
+For any experience of the present, as present, to be possible one needs to trace or mark a potentiality that is experienced in the now as what could be recalled into the future. If this is so then there can be no exhaustive closure of the present: whatever I might claim to know or predict in the present that I experience, or in the now that is before me, there is always something in the present as present that exceeds any predictive or calculative power (Colebrook 280
+
+If there is such a thing as nature—a world bearing its own syntheses, order, and temporality, then it may well go into decline, chaos and nonbeing regardless of the concepts and anticipations that we may have of it (Colebrook 280
+
+Whatever happens to the planet in a literal sense (the planet that will go on after humans), is quite different from the ways in which the earth is lived, and it is that lived earth or world that bears an ideality that at once subsists beyond any actual present and yet might also be extinguished when the living of that world ceases to be. On the one hand, then, Derrida will claim that every death of a lived world (every death of a subject) is the end of the world (Colebrook 281
+
+Human abilities—such as speech and writing—are (to follow Bernard Stiegler, after Derrida) pharmacological: by extending, enhancing, and sustaining thought and memory they also require a certain submission and systematization. Civilization’s “abilities,” such as industrialized 4 agriculture, manufacturing, militarization, and political systems, are at once constitutive of human culture and, while limiting the range of freedom, have an autoimmune quality. It is evident today, in the era of the Anthropocene, that the very agricultural practices that allowed humans to draw more from their milieu in a sustainable manner and protect themselves from the contingencies of nature now render what was taken to be nature less hospitable and less sustainable. Ecology, or the capacity for human bodies to become aspects of a dynamic system of earth-species relations, is precisely what threatens human and inhuman life today. There can only be a human archive if the human body couples itself with various systems (inscriptive, technological, agricultural, scientific, moral, political, familial), but these same tendencies toward order are also generative of disorder. (Colebrook 284
+
+**change; man as homo faber or homo sapiens, the man of technoscience, the man of striking abilities and capacities—the man who tamed nature so that human life would be sustainable and not subject to the contingencies of the earth—this man of striking abilities is not only possible because of his own incapacity (coupling himself to the forces of the earth); he has incapacitated so many others (the colonized, the enslaved, the nonhumans, and those of his own species he has deemed to be less than human). (Colebrook 284-285**
+
+And in a world that has perhaps paid too much attention to the notion that anything is possible, one might want to think about a world in which everything we thought might be possible is erased (Colebrook 285
+
+whatever one claims about justice or the earth, other possible claims might be made; any political or environmental claim is made within a terrain of terms and conditions that can never be closed, and so there can be no state of climate emergency declared for the sake of saving humanity, precisely because what counts as the human remains open to contestation. There can be no imperative for survival at all costs (Colebrook 288
+
+n. If one claims that geological inscription promises either a dire future that commands that we must act now for the sake of the species or that this same inscription might be read otherwise and that humanity might find another (utopian and possibly inhuman) mode of being, one nevertheless—as Kant’s theory of reflective judgment and Husserl’s history of reason as the constitution and incarnation of sense argued—appeals to a presupposed community of ongoing and rational readers who would intuit in the world the same truth, sense, promise, and temporality that one now reads in the present (Colebrook 288
+
+**The question of what sort of life we will be able to lead and the question of what forms of life we wish to sustain are intensified by questions of climate change. Rather than see disability as an added concern when thinking about the future of the environment, I would argue that both the humanities and traditional forms of ecocriticism are already intertwined with normative conceptions of life. (Colebrook 288-289**
+
+>the capacity for humans to develop their reason, arrive at maturity, and to flourish has been threatened by the weakening of the role of the humanities. When neoliberal imperatives for market efficiency overtake the universities and when digital humanities projects do not take part in the ongoing care of the self, reason becomes nothing more than rationalization, and we fall back into stupidity (Colebrook 289
+
+It is precisely the drive to sustain and enable, to maximize what comes to call itself “human,” that generates a war on disability and extinction, the two of which are intertwined. (Colebrook 290
