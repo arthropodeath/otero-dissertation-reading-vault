@@ -15,7 +15,7 @@ Definitions of posthumanism typically fall either within a camp derived from cri
 
 Untangling the varied articulations is difficult because critical posthumanism rubs shoulders with the popular form in its focus on technology. Transhumanism, a type of hyper-humanism, would continue the normative identities detailed during the Enlightenment, yet do so to such a degree these persons would clearly be advanced over unenhanced humans. (Carbonell 8)
 
-This conceptualization is within the discourse of technological transhumanism (a form of hyper-humanism) and, for Sterling, its imagining of future humans performing grand, planet-changing projects. (Carbonell 10)
+>This conceptualization is within the discourse of technological transhumanism (a form of hyper-humanism) and, for Sterling, its imagining of future humans performing grand, planet-changing projects. (Carbonell 10)
 
 **Sterling's use of the posthuman, like those that derive from SF studies, often work outside these narrow parameters. In fact, for thinkers like Sterling, the “posthuman” is a technologically constructed subject rather than a philosophical posture. (Carbonell 10)**
 
